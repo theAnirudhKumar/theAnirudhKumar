@@ -1,6 +1,6 @@
-# Anirudh Kumar
+# Hey there, I'm Anirudh! 👋
 
-I work in Customer Success, I write about AI and productivity tools, and I build skills that let people use them without being technical.
+I work in Customer Success, writing about AI and productivity tools, and building skills that let people use them without being technical.
 
 That last part is the through-line. Everything I publish is written to run with no terminal, no workspace and no connectors, because the people who need it most are in sales, support, HR and operations, and none of them have those. **You don't need to be a tech person to work like one.**
 
@@ -24,14 +24,6 @@ Two rules for anything I publish: nothing may be a prerequisite, and every skill
 | :--- | :--- |
 | **[Hustlyst](https://hustlyst.com?ref=github)** | Twice a week on AI and automation tools for people who don't code. A long-form piece on Tuesday, a short read on Friday. Does this tool solve a real problem, can you use it without a tutorial, is it worth the money. |
 | **[CS Pulse](https://cspulse.com?ref=github)** | A community and newsletter for customer success practitioners. [Join here.](https://go.cspulse.com/community?ref=github) |
-
----
-
-### How I think about this
-
-Most AI-for-work content is confident and untested. I would rather ship something narrower that admits what it could not check. The skills here flag their own gaps, separate what someone actually said from what was inferred, and refuse to fill in a missing fact quietly, because in customer-facing work it is a wrong fact that does the damage, not a clumsy sentence.
-
-The other half of it is community. Running one for years taught me the thing that transfers: the useful artefact is the one someone can pick up without you in the room.
 
 ---
 
