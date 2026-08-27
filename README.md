@@ -10,8 +10,8 @@ That last part is the through-line. Everything I publish is written to run with 
 
 | | |
 | :--- | :--- |
-| **[meeting-design](https://github.com/theAnirudhKumar/meeting-design)** | Design the meeting before you run it. Which decision has to come out of it, who actually decides, and what happens when the room deadlocks. Built for [Hustlyst](https://hustlyst.com) readers, who sit in more meetings than anyone gives them credit for. |
-| **[CSPulse/cs-skills](https://github.com/CSPulse/cs-skills)** | AI skills for customer success teams. Renewal risk, business reviews, onboarding plans, post-call follow-ups, email critique. The resource hub for CS Pulse. |
+| **[meeting-design](https://github.com/theAnirudhKumar/meeting-design)** | Design the meeting before you run it. Which decision has to come out of it, who actually decides, and what happens when the room deadlocks. Built for [Hustlyst](https://hustlyst.com?ref=github) readers, who sit in more meetings than anyone gives them credit for. |
+| **[customer-success-skills](https://github.com/CSPulse/customer-success-skills)** | Twelve AI skills for the work customer success actually does. Reading an account honestly, running the set-piece moments, handling the conversations, writing the things customers read. The resource hub for CS Pulse. |
 | **[skills](https://github.com/theAnirudhKumar/skills)** | The general-purpose ones I use daily. Carrying context between chats, keeping long sessions from getting expensive. |
 
 Two rules for anything I publish: nothing may be a prerequisite, and every skill names the failure it exists to prevent. If it cannot say what goes wrong without it, it is a template rather than a skill.
@@ -22,8 +22,8 @@ Two rules for anything I publish: nothing may be a prerequisite, and every skill
 
 | | |
 | :--- | :--- |
-| **[Hustlyst](https://hustlyst.com)** | Twice a week on AI and automation tools for people who don't code. A long-form piece on Tuesday, a short read on Friday. Does this tool solve a real problem, can you use it without a tutorial, is it worth the money. |
-| **[CS Pulse](https://cspulse.com)** | A community and newsletter for customer success practitioners. [Join here.](https://go.cspulse.com/community) |
+| **[Hustlyst](https://hustlyst.com?ref=github)** | Twice a week on AI and automation tools for people who don't code. A long-form piece on Tuesday, a short read on Friday. Does this tool solve a real problem, can you use it without a tutorial, is it worth the money. |
+| **[CS Pulse](https://cspulse.com?ref=github)** | A community and newsletter for customer success practitioners. [Join here.](https://go.cspulse.com/community?ref=github) |
 
 ---
 
@@ -35,4 +35,4 @@ The other half of it is community. Running one for years taught me the thing tha
 
 ---
 
-[hustlyst.com](https://hustlyst.com) · [cspulse.com](https://cspulse.com) · [anirudhk.com/connect](https://anirudhk.com/connect)
+[hustlyst.com](https://hustlyst.com?ref=github) · [cspulse.com](https://cspulse.com?ref=github) · [anirudhk.com/connect](https://anirudhk.com/connect?ref=github)
