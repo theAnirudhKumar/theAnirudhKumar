@@ -10,7 +10,7 @@ That last part is the through-line. Everything I publish is written to run with 
 
 | | |
 | :--- | :--- |
-| **[work-design](https://github.com/theAnirudhKumar/work-design)** | Design the work before you do it. Vetting a tool before you sign up, carrying context from one session into the next, catching an expensive request before it runs. Three skills, two more on the way. |
+| **[work-design](https://github.com/theAnirudhKumar/work-design)** | Design the work before you do it. Vetting a tool before you sign up, deciding what to hand to an agent and what to keep, carrying context from one session into the next, catching an expensive request before it runs. Four skills, two more on the way. |
 | **[meeting-design](https://github.com/theAnirudhKumar/meeting-design)** | Design the meeting before you run it. Which decision has to come out of it, who actually decides, and what happens when the room deadlocks. Built for [Hustlyst](https://hustlyst.com?ref=github) readers, who sit in more meetings than anyone gives them credit for. |
 | **[customer-success-skills](https://github.com/CSPulse/customer-success-skills)** | Sixteen AI skills for the work customer success actually does. Reading an account honestly, running the set-piece moments, handling the conversations, writing the things customers read. The resource hub for CS Pulse. |
 
