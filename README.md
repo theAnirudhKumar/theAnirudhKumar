@@ -1,8 +1,8 @@
 # Hey there, I'm Anirudh! 👋
 
-I work in Customer Success, writing about AI and productivity tools, and building skills that let people use them without being technical.
+I work in Customer Success, write about AI and productivity tools, and build skills that make them usable without being technical.
 
-That last part is the through-line. Installing what is below does not require you to code, and most of it runs from what you paste into a chat. A few install steps use a terminal command or an MCP connector along the way, and the instructions say so plainly instead of pretending otherwise. The people who need this most are in sales, customer success, marketing, RevOps and growth consulting. **You don't need to be a tech person to work like one.**
+Most skills I'm building run from a chat. A few install steps use a terminal or an MCP connector, and I say so upfront. Built for sales, customer success, marketing, RevOps and growth consulting. **You don't need to be a tech person to work like one.**
 
 ---
 
@@ -23,7 +23,7 @@ Two rules for anything I publish: nothing may be a prerequisite, and every skill
 
 | | |
 | :--- | :--- |
-| **[Hustlyst](https://hustlyst.com?ref=github)** | Twice a week on AI and automation tools for people who don't code. A long-form piece on Tuesday, a short read on Friday. Does this tool solve a real problem, can you use it without a tutorial, is it worth the money. |
+| **[Hustlyst](https://hustlyst.com?ref=github)** | AI and automation tools for people who don't code, taken apart properly: does this tool solve a real problem, can you use it without a tutorial, is it worth the money. |
 | **[CS Pulse](https://cspulse.com?ref=github)** | A community and newsletter for customer success practitioners. [Join here.](https://go.cspulse.com/community?ref=github) |
 
 ---
