@@ -1,8 +1,8 @@
 # Hey there, I'm Anirudh! 👋
 
-I work in Customer Success, write about AI and productivity tools, and build skills that make them usable without being technical.
+I work in Customer Success and build AI skills for people who aren't engineers: sales, CS, marketing, RevOps, growth consulting. Most run from a single paste into a chat; a couple of install steps need a terminal or an MCP connector. I also write about AI and productivity tools.
 
-Most skills I'm building run from a chat. A few install steps use a terminal or an MCP connector, and I say so upfront. Built for sales, customer success, marketing, RevOps and growth consulting. **You don't need to be a tech person to work like one.**
+**You don't need to be a tech person to work like one.**
 
 ---
 
