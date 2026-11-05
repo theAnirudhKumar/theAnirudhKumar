@@ -11,7 +11,7 @@ I carry accounts, and I build AI skills for people who aren't engineers: sales, 
 
 ### What I build
 
-- **[CoworkOS](https://github.com/theAnirudhKumar/CoworkOS)** - The workstation memory and routing system that runs everything else on this page, stripped of anything personal and packaged as an installable template. Built for Claude Cowork, documented to also work with ChatGPT Work Mode, Kimi Work, OpenClaw and Hermes Agent.
+- **[CoworkOS](https://github.com/theAnirudhKumar/CoworkOS)** - Your AI second brain in plain markdown. It remembers you, captures thoughts from your phone, sets goals, plans your week around your calendar, and tidies itself weekly, with a dashboard you name. The system that runs everything else on this page, packaged as an installable template. Built for Claude Cowork; works with Claude Code, ChatGPT and other AI tools.
 - **[customer-success-skills](https://github.com/CSPulse/customer-success-skills)** - Thirty-two skills for the work CS actually does. Reading an account honestly, running the set-piece moments, handling the hard conversations, writing the things customers read. The resource hub for CS Pulse.
 - **[work-design](https://github.com/theAnirudhKumar/work-design)** - Nine skills for designing the work before you do it. Vetting a tool before you sign up, deciding what to hand an agent and what to keep, carrying context from one session to the next.
 - **[meeting-design](https://github.com/theAnirudhKumar/meeting-design)** - Designing the meeting before you run it. Which decision has to come out of it, who actually decides, and what happens when the room deadlocks.
