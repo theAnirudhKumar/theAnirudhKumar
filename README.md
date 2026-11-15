@@ -25,7 +25,7 @@ Everything here is free. Issues and ideas are welcome on every repo.
 
 **Lab**
 
-- **[The Lab](https://go.hustlyst.com/lab?ref=github)** - Small tools that turn your own data into a shareable card: your meeting costs, a listening receipt, group chat awards. Runs in your browser, nothing is uploaded. [Source.](https://github.com/Hustlyst/lab)
+- **[Hustlyst Lab](https://go.hustlyst.com/lab?ref=github)** - Small tools that turn your own data into a shareable card: your meeting costs, a listening receipt, group chat awards. Runs in your browser, nothing is uploaded. [Source.](https://github.com/Hustlyst/lab)
 
 **Workspace**
 
