@@ -1,9 +1,9 @@
 # If your job title doesn't have "engineer" in it, this page is for you.
 
-**Hey, I'm Anirudh Kumar! 👋**
-Senior Customer Success Manager. Bengaluru, India.
+**Anirudh Kumar 👋**
+Senior Customer Success Account Manager. Bengaluru, India.
 
-I carry accounts, and I build AI skills for people who aren't engineers: sales, CS, marketing, RevOps, growth consulting. Most run from a single paste into a chat; a couple of install steps need a terminal or an MCP connector. I also write about AI and productivity tools.
+Free AI tools for people who aren't engineers, plus a community of CSMs and writing on AI at work.
 
 **You don't need to be a tech person to work like one.**
 
@@ -11,18 +11,33 @@ I carry accounts, and I build AI skills for people who aren't engineers: sales, 
 
 ### What I build
 
-- **[CoworkOS](https://github.com/theAnirudhKumar/CoworkOS)** - Your AI second brain in plain markdown. It remembers you, captures thoughts from your phone, sets goals, plans your week around your calendar, and tidies itself weekly, with a dashboard you name. The system that runs everything else on this page, packaged as an installable template. Built for Claude Cowork; works with Claude Code, ChatGPT and other AI tools.
-- **[customer-success-skills](https://github.com/CSPulse/customer-success-skills)** - Thirty-two skills for the work CS actually does. Reading an account honestly, running the set-piece moments, handling the hard conversations, writing the things customers read. The resource hub for CS Pulse.
-- **[work-design](https://github.com/theAnirudhKumar/work-design)** - Nine skills for designing the work before you do it. Vetting a tool before you sign up, deciding what to hand an agent and what to keep, carrying context from one session to the next.
-- **[meeting-design](https://github.com/theAnirudhKumar/meeting-design)** - Designing the meeting before you run it. Which decision has to come out of it, who actually decides, and what happens when the room deadlocks.
+Everything here is free. Issues and ideas are welcome on every repo.
+
+**AI second brain**
+
+- **[CoworkOS](https://anirudhk.com/CoworkOS?ref=github)** - An AI second brain in plain markdown. It remembers your work and plans your week. Works with Claude, ChatGPT and other AI tools.
+
+**Skills**
+
+- **[customer-success-skills](https://go.cspulse.com/ai-skills?ref=github)** - Skills for the work CS does: accounts, renewals, escalations, hard conversations. For CSMs and their leaders.
+- **[work-design](https://github.com/theAnirudhKumar/work-design)** - Skills for designing the work before you do it, from vetting a tool to deciding what to hand an agent. For anyone who uses AI daily.
+- **[meeting-design](https://github.com/theAnirudhKumar/meeting-design)** - Paste in an invite and get a verdict on the meeting. For anyone who runs or sits in meetings.
+
+**Lab**
+
+- **[The Lab](https://go.hustlyst.com/lab?ref=github)** - Small tools that turn your own data into a shareable card: your meeting costs, a listening receipt, group chat awards. Runs in your browser, nothing is uploaded. [Source.](https://github.com/Hustlyst/lab)
+
+**Workspace**
+
+- **[Arcus](https://go.cspulse.com/arcus?ref=github)** - An AI workspace for one CSM: mail, CRM, calls and calendar in one place, with drafts ready. Nothing goes out until you click.
 
 ---
 
-### What I write and run
+### Community and writing
 
-- **[CS Pulse](https://cspulse.com?ref=github)** - A community for customer success practitioners, built around small live sessions called Rooms: a handful of CSMs and a moderator, no slides, no vendor pitch, working through one real mistake together until it turns into something everyone can use on Monday. [Join here.](https://go.cspulse.com/community?ref=github)
-- **[Hustlyst](https://hustlyst.com?ref=github)** - AI and automation tools for people who don't code, taken apart properly. Does this solve a real problem, can you use it without a tutorial, is it worth the money.
+- **[CS Pulse](https://go.cspulse.com/home?ref=github)** - Small live Rooms where CSMs work through real scenarios together. [Join here](https://go.cspulse.com/community?ref=github), or sign in to the [member app](https://app.cspulse.com?ref=github).
+- **[Hustlyst](https://go.hustlyst.com/home?ref=github)** - AI playbooks and tool picks for people who don't code, taken apart one task at a time.
 
 ---
 
-[hustlyst.com](https://hustlyst.com?ref=github) · [cspulse.com](https://cspulse.com?ref=github) · [anirudhk.com/connect](https://anirudhk.com/connect?ref=github)
+[Connect with me](https://anirudhk.com/connect?ref=github) · [anirudhkumar.com](https://anirudhk.com/web?ref=github) · [hustlyst.com](https://go.hustlyst.com/home?ref=github) · [cspulse.com](https://go.cspulse.com/home?ref=github)
